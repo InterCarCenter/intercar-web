@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/intercar-web/static/css/main.3d514c4f.css",
+    "main.js": "/intercar-web/static/js/main.dfc8ce03.js",
+    "static/media/CUERO SINTETICO.jpg": "/intercar-web/static/media/CUERO SINTETICO.112d4d4e8449df8c6ddc.jpg",
+    "static/media/TELA.jpg": "/intercar-web/static/media/TELA.f1ee986bffb7908b6483.jpg",
+    "static/media/LINO.jpg": "/intercar-web/static/media/LINO.803095df98f146abf65a.jpg",
+    "static/media/CUERO.jpg": "/intercar-web/static/media/CUERO.c6ddd518dd5396031734.jpg",
+    "static/media/T.jpg": "/intercar-web/static/media/T.c80d0f4324cdd3a57973.jpg",
+    "static/media/VINILO.jpg": "/intercar-web/static/media/VINILO.e5f2e4569f13d2ab3b81.jpg",
+    "static/media/GAMUZ.jpg": "/intercar-web/static/media/GAMUZ.11f0ef5e09740aaae5b3.jpg",
+    "static/media/alca.jpg": "/intercar-web/static/media/alca.71e48e40e960456bef69.jpg",
+    "static/media/poppins-devanagari-400-normal.woff": "/intercar-web/static/media/poppins-devanagari-400-normal.421fe9869ff4b58e2d7b.woff",
+    "static/media/poppins-devanagari-400-normal.woff2": "/intercar-web/static/media/poppins-devanagari-400-normal.d2ee5e6ea17bffe3bf58.woff2",
+    "static/media/poppins-latin-400-normal.woff": "/intercar-web/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/intercar-web/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/intercar-web/static/media/poppins-latin-ext-400-normal.7e12786771ac4a8e6a5c.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/intercar-web/static/media/poppins-latin-ext-400-normal.d7c074a9c34fe9785f69.woff2",
+    "index.html": "/intercar-web/index.html",
+    "main.3d514c4f.css.map": "/intercar-web/static/css/main.3d514c4f.css.map",
+    "main.dfc8ce03.js.map": "/intercar-web/static/js/main.dfc8ce03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d514c4f.css",
+    "static/js/main.dfc8ce03.js"
+  ]
+}
